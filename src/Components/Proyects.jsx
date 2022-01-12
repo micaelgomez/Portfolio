@@ -5,7 +5,7 @@ function Proyects() {
   return (
     <div className="md:w-1/2 h-screen overflow-y-scroll ">
       <div className="">
-        <h2 className="text-5xl text-dorado mt-5 text-center   ">Projects</h2>
+        <h2 className="text-5xl text-dorado mt-5 text-center   ">PROYECTS</h2>
       </div>
       <div className="flex flex-col items-center ">
         {data &&
