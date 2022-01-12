@@ -5,7 +5,7 @@ const Header = () => {
   function linkedId(e) {}
 
   return (
-    <div className="md:w-1/2 bg-negro min-h-screen rounded-md border  border-dorado max-h-10">
+    <div className="md:w-1/2 bg-black min-h-screen rounded-md border  border-dorado max-h-10">
       <div className="p-3 m-5 flex justify-around   ">
         <img
           src={foto}
